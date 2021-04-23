@@ -26,15 +26,15 @@ It is important that before adding anything to this tab, you make sure you have 
 
 Websites you should use are :
 
-u15dvdinfo.com (best source of U-15 movies)
+* u15dvdinfo.com (best source of U-15 movies)
 
-eic-book.com (great source for most movies)
+* eic-book.com (great source for most movies)
 
-idolwatch.jp (can be a great source, but lacks movie code)
+* idolwatch.jp (can be a great source, but lacks movie code)
 
-idolerotic.net (a bit more random, useful for more recent idols)
+* idolerotic.net (a bit more random, useful for more recent idols)
 
-wikipedia
+* wikipedia
 
 Check all these to make sure you haven't forgotten anything then add each movie code and it's release date. Type the name of the idol in the appropriate column.
 
